@@ -1,2 +1,2 @@
-email='anonimo.emailtester@gmail.com'
-email_senha='testeteste'
+email='portiemail.sender@gmail.com'
+email_senha='kknzcpzgjlzoxtjj'
